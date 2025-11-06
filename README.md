@@ -1,38 +1,105 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hello, I'm Abdelrahman Mostafa 👋</h1>
+<h3 align="center">Backend Developer | .NET | Node.js | Python (Django)</h3>
 
-Hi, I'm [Abdelrhaman Mostafa](https://github.com/abdelrahman30x), a Full Stack developer using MEARN 🚀 from Egypt. Beside's programming, I enjoy eating food and Watching Movies.
+<div align="center">
 
-  
-- 💬 Ask me about anything, I am happy to help
+[![GitHub Followers](https://img.shields.io/github/followers/abdelrahman30x?style=social)](https://github.com/abdelrahman30x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman30x/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman30x)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:dev.abdelrahman.30@gmail.com)
 
-### Tools & Technologies
-![node.js](https://img.shields.io/badge/Node.js-20232A?style=social&logo=node.js&logoColor=3C823B)
-![react](https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-20232A?style=social&logo=angular&logoColor=DD0031)
-![html5](https://img.shields.io/badge/HTML-20232A?style=social&logo=html5&logoColor=E34F26)
-![css3](https://img.shields.io/badge/CSS-20232A?&style=social&logo=css3&logoColor=1572B6)
-![js](https://img.shields.io/badge/JavaScript-20232A?style=social&logo=javascript&logoColor=F7DF1E)
-![ts](https://img.shields.io/badge/TypeScript-20232A?style=social&logo=typescript&logoColor=3178C6)
-![bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=social&logo=bootstrap&logoColor=7410F0)
-![mysql](https://img.shields.io/badge/MySQL-20232A?style=social&logo=mysql&logoColor=4479A1)
-![postgres](https://img.shields.io/badge/PostgreSQL-20232A?style=social&logo=postgresql&logoColor=4169E1)
-![mongodb](https://img.shields.io/badge/MongoDB-20232A?style=social&logo=mongodb&logoColor=108D4D)
-![npm](https://img.shields.io/badge/npm-20232A?style=social&logo=npm&logoColor=CB3837)
-![git](https://img.shields.io/badge/git-20232A?style=social&logo=git&logoColor=EB4C27)
-![docker](https://img.shields.io/badge/docker-20232A?style=social&logo=docker&logoColor=1993EF)
-![heroku](https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku&logoColor=7410F0)
-![python](https://img.shields.io/badge/Python-20232A?style=social&logo=python&logoColor=3776AB)
+</div>
+
+---
+
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+Hi, I'm **Abdelrahman Mostafa**, a passionate **Backend Developer** from **Egypt** 🇪🇬  
+I build **scalable, secure, and high-performance web applications** using **.NET**, **Node.js**, and **Django** — with light experience in **Angular** for frontend.
+
+- 💼 **Currently working on:** .NET Web APIs, Express.js, Django REST Framework  
+- 🌱 **Learning:** Clean Architecture, Microservices, and Cloud Deployment (Azure / AWS)  
+- 💬 **Ask me about:** .NET, C#, Node.js, Python, Django, SQL, APIs  
+- ⚡ **Fun fact:** I love movies and good food 🍿🍔  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</div>
+
+### ⚙️ Backend Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+</div>
+
+### 🌐 Frontend (Basic)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</div>
+
+### 🧠 Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
+
+### 🧰 Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
+---
+
+## 📈 GitHub Stats
 
 <img align="left" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdelrahman30x&layout=compact"/>
 <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdelrahman30x&show_icons=true"/>
 
+---
 
+## 🎯 Future Goals
+- Master **Microservices** with .NET, Node.js, and Django  
+- Deploy full-stack apps using **Docker + Cloud (Azure/AWS)**  
+- Contribute to **Open Source Backend Projects**  
+- Learn **DevOps pipelines (CI/CD)**  
 
+---
 
-
-
-
-
-
-
-
+⭐ **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
