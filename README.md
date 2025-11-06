@@ -18,8 +18,6 @@
 
 </div>
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
 Hi, I'm **Abdelrahman Mostafa**, a passionate **Backend Developer** from **Egypt** 🇪🇬  
 I build **scalable, secure, and high-performance web applications** using **.NET**, **Node.js**, and **Django** — with light experience in **Angular** for frontend.
 
